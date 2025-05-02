@@ -1,0 +1,21 @@
+{
+  "name": "material-void-ocean",
+  "displayName": "Material Void Ocean",
+  "description": "Simple material ocean theme inspired by antirez vi colorscheme.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Void Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Void Ocean-color-theme.json"
+      }
+    ]
+  }
+}
