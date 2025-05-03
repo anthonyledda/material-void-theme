@@ -2,9 +2,11 @@
   "name": "material-void-ocean",
   "displayName": "Material Void Ocean",
   "description": "Simple material ocean theme inspired by antirez vi colorscheme.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
-    "vscode": "^1.99.0"
+    "node": ">= 12",
+    "vscode": "^1.51.0",
+    "vscodium": "^1.51.0"
   },
   "repository": {
     "type": "git",
